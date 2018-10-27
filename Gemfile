@@ -26,6 +26,7 @@ gem 'haml', '~> 5.0', '>= 5.0.4'
 gem 'simple_form', '~> 4.0', '>= 4.0.1'
 gem 'bootstrap', '~> 4.1', '>= 4.1.3'
 gem 'devise', '~> 4.5'
+gem 'jquery-rails'
 # Use Redis adapter to run Action Cable in production
 # gem 'redis', '~> 4.0'
 # Use ActiveModel has_secure_password
