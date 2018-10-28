@@ -3,6 +3,8 @@
 */
 
 @import 'bootstrap';
+@import "font-awesome-sprockets";
+@import "font-awesome";
 
 body {
   background: #E9E9E9;
@@ -38,8 +40,7 @@ nav {
   margin: 0 auto;
   width: 100%;
   .box {
-    margin: 7px;
-    width: 350px;
+    margin: 20px;
     box-shadow: 0 1px 2px 0 rgba(82,158,204, 0.48);
     border-radius: 2px;
     text-align: center;
@@ -48,7 +49,7 @@ nav {
       height: auto;
     }
     h2 {
-      font-size: 10px;
+      font-size: 14px;
       margin: 0;
       font-weight: bold;
       padding: 25px 10px;
